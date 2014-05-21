@@ -106,6 +106,9 @@ Google で検索してみよう!!
 
 --
 
+やってみよう
+
+----
 [Git をはじめからていねいに](https://github.com/Shinpeim/introduction-to-git)
 
 
