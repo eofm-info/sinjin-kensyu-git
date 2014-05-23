@@ -111,6 +111,13 @@ Google で検索してみよう!!
 ----
 [Git をはじめからていねいに](https://github.com/Shinpeim/introduction-to-git)
 
+--
+
+確認
+
+----
+    git config --global user.name
+    git config --global user.email
 
 ---
 
